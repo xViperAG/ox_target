@@ -11,6 +11,6 @@
   "debug_ped": "(Debug) Ped",
   "debug_vehicle": "(Debug) Vehicle",
   "debug_object": "(Debug) Object",
-  "toggle_targeting": "Toggle targeting",
+  "toggle_targeting": "Peek at Target",
   "go_back": "Go back"
 }

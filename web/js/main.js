@@ -13,11 +13,11 @@ window.addEventListener("message", (event) => {
       return eye.classList.remove("eye-hover");
     }
 
-    case "leftTarget": {
+    case 'leftTarget': {
       return eye.classList.remove("eye-hover");
     }
 
-    case "setTarget": {
+    case 'setTarget': {
       eye.classList.add("eye-hover");
 
       if (event.data.options) {
