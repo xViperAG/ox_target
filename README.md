@@ -11,3 +11,5 @@ To improve many design flaws, ox_target has been written from scratch and drops 
 - Improved error handling protects against soft-locking.
 - Improved entity and world collision detection.
 - Options now stack, rather than overriding.
+
+### Updated UI Design - Credit to [Qwadebot](https://github.com/qw-scripts)
